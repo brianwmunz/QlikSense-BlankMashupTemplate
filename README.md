@@ -1,6 +1,6 @@
 QlikSense-BlankMashupTemplate
 ================
-This is so simple it's ridiculous.  All this template does is allow you to create a completely blank mashup project.  Once you add this to the proper folder, you will see it appear in the list of workbench templates as "Totally Blank Template."  This is really only useful in getting your mashup assigned to a QVF and available in the list of workbench extensions.
+This is so simple it's ridiculous.  All this template does is allow you to create a completely blank mashup project.  The only reason I made it is because we don't have it offered by default, so I think it may be useful.  Once you add this to the proper folder, you will see it appear in the list of workbench templates as "Totally Blank Template."  This is really only useful in getting your mashup assigned to a QVF and available in the list of workbench extensions.
 
 *********************************
 Installation & Use
