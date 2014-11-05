@@ -5,5 +5,5 @@ This is so simple it's ridiculous.  All this template does is allow you to creat
 *********************************
 Installation & Use
 *********************************
-Simple take this folder and add it to C:\Users\[YOUR USER NAME]\Documents\Qlik\Sense\Extensions\Templates.
+Simply take this folder and add it to C:\Users\[YOUR USER NAME]\Documents\Qlik\Sense\Extensions\Templates.
 Once you do this you should see the new template appear in the dropdown list after clicking the "Create New" button.
